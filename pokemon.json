@@ -1,0 +1,30 @@
+{
+    "pikachu": {
+        "type": "normal",
+        "moves": [
+            {"nom": "éclair", "puissance": 20},
+            {"nom": "charge", "puissance": 15}
+        ]
+    },
+    "dracaufeu": {
+        "type": "feu",
+        "moves": [
+            {"nom": "lance-flammes", "puissance": 25},
+            {"nom": "griffe", "puissance": 10}
+        ]
+    },
+    "tortank": {
+        "type": "eau",
+        "moves": [
+            {"nom": "hydrocanon", "puissance": 30},
+            {"nom": "boule d'eau", "puissance": 15}
+        ]
+    },
+    "ronflex": {
+        "type": "terre",
+        "moves": [
+            {"nom": "roulade", "puissance": 10},
+            {"nom": "balayage", "puissance": 5}
+        ]
+    }
+}

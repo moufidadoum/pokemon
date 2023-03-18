@@ -1,0 +1,65 @@
+{
+    "pokemon": [
+      {
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "speed": 45,
+        "attacks": [
+          {
+            "name": "Tackle",
+            "type": "Normal",
+            "power": 40
+          },
+          {
+            "name": "Vine Whip",
+            "type": "Grass",
+            "power": 45
+          }
+        ]
+      },
+      {
+        "name": "Charmander",
+        "type": ["Fire"],
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "speed": 65,
+        "attacks": [
+          {
+            "name": "Scratch",
+            "type": "Normal",
+            "power": 40
+          },
+          {
+            "name": "Ember",
+            "type": "Fire",
+            "power": 40
+          }
+        ]
+      },
+      {
+        "name": "Squirtle",
+        "type": ["Water"],
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "speed": 43,
+        "attacks": [
+          {
+            "name": "Tackle",
+            "type": "Normal",
+            "power": 40
+          },
+          {
+            "name": "Water Gun",
+            "type": "Water",
+            "power": 40
+          }
+        ]
+      }
+    ]
+  }
+  
